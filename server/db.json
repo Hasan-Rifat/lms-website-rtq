@@ -1,0 +1,430 @@
+{
+  "users": [
+    {
+      "email": "admin@learnwithsumit.com",
+      "password": "$2a$10$/TDPCTU28mFzKnSsW2pHSu512mpMKxLf8eiPbcTFLSNL87tbZBp3W",
+      "role": "admin",
+      "name": "LWS Admin",
+      "id": 1
+    },
+    {
+      "email": "saad.hasan@learnwithsumit.com",
+      "password": "$2a$10$4iJEmSkM1Dq6WMRb0SuJeeic1SEB9TrH3gw5IT441Adox/ZZXj2Ae",
+      "role": "student",
+      "name": "Saad Hasan",
+      "id": 2
+    },
+    {
+      "email": "akash.ahmed@learnwithsumit.com",
+      "password": "$2a$10$TNsYpL6ffKBrupNNvdJlleJlgIkp1C1xQJCbiv7HAl5Ggs.kucie2",
+      "role": "student",
+      "name": "Akash Ahmed",
+      "id": 3
+    },
+    {
+      "email": "md.salahuddin@learnwithsumit.com",
+      "password": "$2a$10$dcWjzIi4mLAERlWE4nfJW.1/mvC9FXqZU8A2V1rPlsqIrP3kWa8PG",
+      "role": "student",
+      "name": "Mohammad Salahuddin",
+      "id": 4
+    },
+    {
+      "email": "ferdous.shohag@learnwithsumit.com",
+      "password": "$2a$10$IZ6eXNauYSqMhl38Wc46texV2vjGZz.Zl66j7hrnW6ZDSDcMlPWeu",
+      "role": "student",
+      "name": "Ferdous",
+      "id": 5
+    },
+    {
+      "email": "riyadh.vai@learnwithsumit.com",
+      "password": "$2a$10$e4XPY48UpqmAj8teZ2je8.qd5AEk6hWm5PQwDoJsCsE91qlDPJx1G",
+      "role": "student",
+      "name": "Riyadh",
+      "id": 6
+    },
+    {
+      "email": "arif.almas@learnwithsumit.com",
+      "password": "$2a$10$NN4pXB4tBMw.ySrMDPMymepSGDdcvKzx/RjNCrdNTENOFVLWCWGOi",
+      "role": "student",
+      "name": "Arif",
+      "id": 7
+    },
+    {
+      "email": "xahiz@mailinator.com",
+      "password": "$2a$10$4n7ftsRM9MqXkL1LgGUpFOtKH9O4OzewXhWrxT8RAis1fUcDoZq1.",
+      "name": "Brady Hinton",
+      "role": "student",
+      "id": 8
+    },
+    {
+      "email": "radog@mailinator.com",
+      "password": "$2a$10$UuIwPg/4hYLda/Rl5tBive9xHOKle8s2Cob0Bumn3l4M6OH32a2s2",
+      "name": "Macaulay Ewing",
+      "role": "student",
+      "id": 9
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "url": "https://www.youtube.com/embed/dD9O8DnIBj4",
+      "views": "51.2K",
+      "duration": "5:30",
+      "createdAt": "2023-01-15T15:17:01.727Z"
+    },
+    {
+      "id": 2,
+      "title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "description": "JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla Tutorial \nIn this video, I have shown 8 more JavaScript pro tips that will make a JavaScript Developer's life easier.",
+      "url": "https://www.youtube.com/embed/E9_R88eKcBM",
+      "views": "91.2K",
+      "duration": "30:30",
+      "createdAt": "2023-01-15T15:17:01.727Z"
+    },
+    {
+      "id": 4,
+      "title": "AI - ChatGPT যখন শিক্ষক । How to Use ChatGPT for Learning | HM Nayem",
+      "description": "ChatGPT আমাকে জাভাস্ক্রিপ্ট শেখাবে। How to Use ChatGPT for Learning \nএই ভিডিও তে আমি দেখানোর চেষ্টা করেছি যে শেখার ক্ষেত্রে কিভাবে আমরা চ্যাটজিপিটি ব্যবহার করতে পারি। \n\nভিডিওটি ভালো লাগলে অবশ্যই শেয়ার করবেন। লাইক, কমেন্ট এবং সাবস্ক্রাইব করতেও ভুলবেন না। ",
+      "url": "https://www.youtube.com/embed/S8bhY6szC_k",
+      "views": "1.6",
+      "duration": "25:4",
+      "createdAt": "2023-01-15T15:17:01.727Z"
+    },
+    {
+      "id": 5,
+      "title": " AI || Facing the Future: The Truth About Artificial Intelligence and Our Jobs - Bangla ",
+      "description": "This video explores the impact of artificial intelligence on employment, examining the history of automation and the current state of AI technology. The video aims to provide a balanced perspective on the topic, helping viewers understand the truth about AI's impact on jobs and offering advice on how to prepare for the changing job market. This video also answers the most common questions asked by programmers worldwide - \"Will AI take my job?\"",
+      "url": "https://www.youtube.com/embed/BihZd2x8Qh8",
+      "views": "17.3k",
+      "duration": "40:12",
+      "createdAt": "2023-01-15T15:17:01.727Z"
+    },
+    {
+      "id": 7,
+      "title": " Learn Flexbox CSS in 8 minutes | Crash Course",
+      "description": "Discord - https://discord.gg/Ccz9nQSfQB\nCodepen for this project - https://codepen.io/ramzibach-the-styl...\n\nDuring the CSS stone-age developers were creating layouts with floats and positioning until one fateful day Flexbox would be introduced and the world would never be the same.",
+      "url": "https://www.youtube.com/embed/phWxA89Dy94",
+      "views": "405k",
+      "duration": "8:15",
+      "createdAt": "2023-01-15T15:17:01.727Z"
+    },
+    {
+      "title": "১০০% বিগিনার ফ্রেন্ডলি কোর্স | JavaScript for Absolute Beginner | Stack Learner Stack Learner",
+      "description": "১০০% বিগিনার ফ্রেন্ডলি কোর্স | JavaScript for Absolute Beginner | Stack Learner\nএই কোর্সটি ওয়েব বুস্টটের সেকেন্ড মাইলস্টোনের জন্য রেকর্ড করা হয়েছিল। কোর্সটি রেকর্ড করা হয়েছে প্রায় ১ বছর পূর্বে। কিন্তু কোর্সের কন্টেন্ট আগামী এক যুগও জাভাস্ক্রিপ্ট শেখাতে সক্ষম। এই কোর্সের সাথে DOM 100 Project এর ভিডিও গুলো মার্জ করার কথা ছিল। তবে ইউটিউবে মার্জ করা ১৫ ঘন্টার ভিডিও আপলোড করার পরে কোনো ভাবেই সে প্রসেস করতে পারি নি। তাই শুধুমাত্র জাভাস্ক্রিপ্টের ভিডিওটাই আপলোড করা হলো।\n\nযারা একদম বিগিনার, কেবল প্রোগ্রামিং শুরু করছেন এবং জাভাস্ক্রিপ্ট দিয়ে প্রোগ্রামিং শুরু করছেন তাদের জন্য এই কোর্সটা একটা বেস্ট কোর্স হতে পারে। এই কোর্সে কোনো অ্যাডভান্সড টপিক নিয়ে আলোচনা করা হয় নি। কোর্সটা কমপ্লিট করার পরে অ্যাডভান্সড বিষয়ের জন্য আপনারা JavaScript All You Need to Know Course টি দেখতে পারেন। \n\nডোনেশন এবং ব্রান্ড প্লেসমেন্ট সম্পর্কে বিস্তারিত জানতে নিচের ফর্মের লিংকে ভিসিট করুন। \nLink: https://forms.gle/vqmjWdpf6BvQZA1SA",
+      "url": "https://www.youtube.com/embed/Ky1_8cdIQBw",
+      "views": "25k",
+      "duration": "180",
+      "createdAt": "2023-04-07T06:34:28.532Z",
+      "id": 8
+    },
+    {
+      "title": "Id ut omnis corrupt",
+      "description": "Aut aliquid qui inci",
+      "url": "Laborum veritatis mi",
+      "views": "Illo eligendi omnis ",
+      "duration": "Dolores est quasi en",
+      "createdAt": "2023-04-07T18:00:03.849Z",
+      "id": 9
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalMark": 100
+    },
+    {
+      "id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "totalMark": 100
+    },
+    {
+      "id": 3,
+      "title": "Autem alias lorem re",
+      "video_id": 4,
+      "video_title": "AI - ChatGPT যখন শিক্ষক । How to Use ChatGPT for Learning | HM Nayem",
+      "totalMark": 90
+    },
+    {
+      "title": "Tenetur ut architect",
+      "video_id": 5,
+      "video_title": " AI || Facing the Future: The Truth About Artificial Intelligence and Our Jobs - Bangla ",
+      "totalMark": 78,
+      "id": 4
+    },
+    {
+      "title": "১০০% বিগিনার ফ্রেন্ডলি কোর্স | JavaScript for Absolute Beginner | Stack Learner ",
+      "video_id": 8,
+      "video_title": "১০০% বিগিনার ফ্রেন্ডলি কোর্স | JavaScript for Absolute Beginner | Stack Learner Stack Learner",
+      "totalMark": 100,
+      "id": 5
+    },
+    {
+      "title": "Id quos dolor nulla",
+      "video_id": 7,
+      "video_title": " Learn Flexbox CSS in 8 minutes | Crash Course",
+      "totalMark": 71,
+      "id": 6
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "What is a Debounce function in JavaScript?",
+      "video_id": "5",
+      "video_title": " AI || Facing the Future: The Truth About Artificial Intelligence and Our Jobs - Bangla ",
+      "options": [
+        {
+          "id": "1",
+          "option": "A function that is called after a certain time intervaldffs",
+          "isCorrect": false
+        },
+        {
+          "id": "2",
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "A function that is called after a certain time intervalfdfs",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of a situation where you would use the Debounce function?",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "options": [
+        {
+          "id": "1",
+          "option": "A search bar where the results are displayed as you type.",
+          "isCorrect": true
+        },
+        {
+          "id": "2",
+          "option": "A button that performs an action when clicked.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "An animation that plays when a user hovers over an element.",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "All of the above.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the difference between null and undefined in JavaScript?",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "options": [
+        {
+          "id": 1,
+          "option": "null represents the intentional absence of any object value.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "undefined represents the uninitialized value of a variable or property.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Same thing",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "No Difference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Quo corrupti quidem",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "options": [
+        {
+          "id": 1,
+          "option": "Dicta tenetur sint r",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tempora occaecat eu",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Elit sed qui amet",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Duis sed nisi volupt",
+          "isCorrect": false
+        }
+      ],
+      "id": 4
+    },
+    {
+      "question": "Irure qui minima ut",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ut sit nisi beatae",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Sit ea sunt velit",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Dolor delectus illo",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Necessitatibus esse",
+          "isCorrect": true
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "assignmentMark": [
+    {
+      "id": 1,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
+      "status": "published"
+    },
+    {
+      "id": 10,
+      "student_id": 2,
+      "student_name": "Ekram the Boss!",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-10",
+      "status": "published"
+    },
+    {
+      "id": 2,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 1,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-2",
+      "status": "published"
+    },
+    {
+      "id": 3,
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "assignment_id": 1,
+      "title": "Assignment 3 - Implement Best Practices",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 50,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-3",
+      "status": "published"
+    },
+    {
+      "student_id": 6,
+      "student_name": "Giselle Bradshaw",
+      "assignment_id": 5,
+      "title": "১০০% বিগিনার ফ্রেন্ডলি কোর্স | JavaScript for Absolute Beginner | Stack Learner ",
+      "createdAt": "2023-04-07T13:41:14.373Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "fsdfsdfs",
+      "status": "published",
+      "id": 11
+    },
+    {
+      "student_id": 5,
+      "student_name": "Ferdous",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2023-04-07T17:44:26.828Z",
+      "totalMark": 100,
+      "mark": 0,
+      "repo_link": "fdgfsdfs",
+      "status": "pending",
+      "id": 12
+    }
+  ],
+  "quizMark": [
+    {
+      "id": 1,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 1,
+      "totalWrong": 1,
+      "totalMark": 10,
+      "mark": 5
+    },
+    {
+      "student_id": 5,
+      "student_name": "Ferdous",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 2
+    },
+    {
+      "totalQuiz": 3,
+      "totalMark": 15,
+      "totalCorrect": 0,
+      "totalWrong": 3,
+      "mark": 0,
+      "student_id": 5,
+      "student_name": "Ferdous",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "id": 3
+    }
+  ]
+}
